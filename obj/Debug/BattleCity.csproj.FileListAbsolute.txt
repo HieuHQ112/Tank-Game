@@ -1,0 +1,63 @@
+D:\Csharp\BaoCao\BattleCity\BattleCity\bin\Debug\BattleCity.exe.config
+D:\Csharp\BaoCao\BattleCity\BattleCity\bin\Debug\BattleCity.exe
+D:\Csharp\BaoCao\BattleCity\BattleCity\bin\Debug\BattleCity.pdb
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.AssemblyReference.cache
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.Form1.resources
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.Properties.Resources.resources
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.GenerateResource.cache
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.CoreCompileInputs.cache
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.exe
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.pdb
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.Form2.resources
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.HuongDan.resources
+D:\Csharp\BaoCao\BattleCity\BattleCity\bin\Debug\Interop.WMPLib.dll
+D:\Csharp\BaoCao\BattleCity\BattleCity\bin\Debug\AxInterop.WMPLib.dll
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\Interop.WMPLib.dll
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\AxInterop.WMPLib.dll
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.ResolveComReference.cache
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.AmThanh.resources
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.KeyMap.resources
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.DiemCao.resources
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\bin\Debug\BattleCity.exe.config
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\bin\Debug\BattleCity.exe
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\bin\Debug\BattleCity.pdb
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\bin\Debug\Interop.WMPLib.dll
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\bin\Debug\AxInterop.WMPLib.dll
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.csprojAssemblyReference.cache
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\Interop.WMPLib.dll
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\AxInterop.WMPLib.dll
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.ResolveComReference.cache
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.AmThanh.resources
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.DiemCao.resources
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.Form1.resources
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.Form2.resources
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.Form3.resources
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.HuongDan.resources
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.KeyMap.resources
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.Properties.Resources.resources
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.GenerateResource.cache
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.CoreCompileInputs.cache
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.exe
+D:\Semester 5\C#\BattleCity\object\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.pdb
+D:\Csharp\BaoCao\BattleCity\BattleCity\obj\Debug\BattleCity.Form3.resources
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\bin\Debug\BattleCity.exe.config
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\bin\Debug\BattleCity.exe
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\bin\Debug\BattleCity.pdb
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\bin\Debug\Interop.WMPLib.dll
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\bin\Debug\AxInterop.WMPLib.dll
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.csprojAssemblyReference.cache
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\Interop.WMPLib.dll
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\AxInterop.WMPLib.dll
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.ResolveComReference.cache
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.AmThanh.resources
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.DiemCao.resources
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.Form1.resources
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.Form2.resources
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.Form3.resources
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.HuongDan.resources
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.KeyMap.resources
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.Properties.Resources.resources
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.GenerateResource.cache
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.csproj.CoreCompileInputs.cache
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.exe
+D:\Semester 5\C#\BattleCity\BattleCity\BattleCity\obj\Debug\BattleCity.pdb
